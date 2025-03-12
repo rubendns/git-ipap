@@ -1,21 +1,40 @@
 # Curso de Git - IPAP Provincia de Buenos Aires
+# Curso de Git - IPAP Provincia de Buenos Aires
 
+Este repositorio forma parte del curso de Git dictado por el IPAP de la Provincia de Buenos Aires.  
+A través de este curso, aprendimos a usar Git para el control de versiones, la colaboración en equipo y la gestión eficiente de código en plataformas como GitHub y GitLab.
 Este repositorio forma parte del curso de Git dictado por el IPAP de la Provincia de Buenos Aires.  
 A través de este curso, aprendimos a usar Git para el control de versiones, la colaboración en equipo y la gestión eficiente de código en plataformas como GitHub y GitLab.
 
 ## Clonar el Repositorio
+## Clonar el Repositorio
 
 Para clonar este repositorio en tu máquina local, ejecuta el siguiente comando:
 ```sh
+```sh
  git clone https://github.com/rubendns/git-ipap
+```
 ```
 Luego, accede al directorio:
 ```sh
+```sh
  cd git-ipap
+```
 ```
 Listo!, ya te encuentras dentro del repositorio clonado.
 
+## Proyecto Clonado del Estado Argentino
 
+En la carpeta `proyecto-clonado/` se encuentra el proyecto del Curso de Ciencia de Datos y Politicas Publicas del Gobierno de la Ciudad cuya descripcion es:
+
+### Landing page del Curso de Ciencia de Datos y Politicas Publicas 
+#### Impulsando la toma de decisiones basadas en evidencia en el Gobierno de la Ciudad de Buenos Aires
+
+[Web con información del Curso](https://datosgcba.github.io/curso-datos/) realizado por la Dirección General de Calidad Institucional y Gobierno Abierto - Secretaría General y Relaciones Internacionales.
+
+El curso fue realizado por Antonio Vázquez Brust, dictado en conjunto con Natsumi Shokida y Lautaro Cantar.
+
+Más información sobre este proyecto en [repositorio original](https://datosgcba.github.io/curso-datos/).
 
 ## Herramientas para Aprender Ramas en Git
 
