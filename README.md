@@ -3,6 +3,7 @@
 Este repositorio forma parte del curso de Git dictado por el IPAP de la Provincia de Buenos Aires.  
 A través de este curso, aprendimos a usar Git para el control de versiones, la colaboración en equipo y la gestión eficiente de código en plataformas como GitHub y GitLab.
 
+
 ## Clonar el Repositorio
 
 Para clonar este repositorio en tu máquina local, ejecuta el siguiente comando:
@@ -14,6 +15,21 @@ Luego, accede al directorio:
  cd git-ipap
 ```
 Listo!, ya te encuentras dentro del repositorio clonado.
+
+
+## Tecnologias a utilizar:
+En GitLab, al crear un nuevo proyecto, podemos elegir diferentes templates predefinidos. Seleccionaremos las siguientes opciones:
+
+- Pages/Plain HTML
+
+Plantilla para sitios web estáticos para el frontEnd.
+Ideal para landing pages, documentación o blogs sencillos.
+
+- NodeJS Express
+
+Para desarrollar el backEnd de la aplicacion ya que incluye JavaScript.
+Útil para crear APIs o sitios dinámicos.
+
 
 ## Proyecto Clonado del Estado Argentino
 
@@ -28,6 +44,7 @@ El curso fue realizado por Antonio Vázquez Brust, dictado en conjunto con Natsu
 
 Más información sobre este proyecto en [repositorio original](https://datosgcba.github.io/curso-datos/).
 
+
 ## Herramientas para Aprender Ramas en Git
 
 Si quieres aprender mas te dejo dos recursos útiles para entender y practicar el uso de ramas en Git:
@@ -37,6 +54,7 @@ Si quieres aprender mas te dejo dos recursos útiles para entender y practicar e
 
 2. **[Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)**  
    Tutorial detallado que explica cómo funcionan las ramas en Git, con ejemplos y mejores prácticas.
+
 
 ## License
 
