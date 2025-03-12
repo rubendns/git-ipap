@@ -3,7 +3,7 @@
 Este repositorio forma parte del curso de Git dictado por el IPAP de la Provincia de Buenos Aires.  
 A través de este curso, aprendimos a usar Git para el control de versiones, la colaboración en equipo y la gestión eficiente de código en plataformas como GitHub y GitLab.
 
-## 1. Clonar el Repositorio
+## Clonar el Repositorio
 
 Para clonar este repositorio en tu máquina local, ejecuta el siguiente comando:
 ```sh
